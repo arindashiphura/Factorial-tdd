@@ -1,4 +1,4 @@
-// BY SHARON ONISIA
+// BY SHARON ONISIA & ARINDA SHIPHURA
 
 
 // factorial.js

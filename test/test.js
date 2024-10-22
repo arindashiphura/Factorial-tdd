@@ -1,4 +1,4 @@
-// BY Sharon Onisia
+// BY Sharon Onisia & Arinda Shiphura
 
 
 // test/fibonacci.test.js
